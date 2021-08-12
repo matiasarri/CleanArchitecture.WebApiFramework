@@ -8,7 +8,7 @@ namespace CleanArchitecture.WebApiFramework.Domain.Entities
     public class ClaveRegistro : AuditableBaseEntity
     {
         public ClaveRegistro()
-        { }
+        {  }
 
      
        public string Clave1 { get; set; }
